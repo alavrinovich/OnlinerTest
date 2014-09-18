@@ -1,0 +1,9 @@
+﻿1.Скачать с сайта http://selenium-release.storage.googleapis.com/index.html?path=2.43/  Selenium Server 2.43.0
+2.Скачать с сайта http://logging.apache.org/log4j/1.2/download.html  Apache log4j 1.2.17
+3.Скачать с сайта http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.testng%22%20AND%20a%3A%22testng%22  TestNG 6.8.8
+4.Положить их в корень проекта
+5.Запустить скрипты runHub и runNode
+6.Запустить тесты скриптом runTest
+7.После выполнения смотреть логи в папке проекта output
+
+Тетировалось на системе windows 7, браузер Firefox 32
