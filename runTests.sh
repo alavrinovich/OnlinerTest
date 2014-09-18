@@ -1,0 +1,2 @@
+javac -d target\classes -encoding utf8 -sourcepath src -classpath .\selenium-server-standalone-2.43.0.jar;.\log4j-1.2.17.jar;.\testng-6.8.8.jar src\test\OnlinerTest.java
+java -classpath .\target\classes;.\selenium-server-standalone-2.43.0.jar;.\log4j-1.2.17.jar;.\testng-6.8.8.jar org.testng.TestNG .\testNG.xml
